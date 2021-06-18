@@ -78,7 +78,7 @@ def keyadjust(key,text):
 
 
 print("===============================================================================================================================================")
-print("Keyword Cipher is a purely alphabetical cipher and it is not case sensitive")
+print("AutoKey Vigenere Cipher is a purely alphabetical cipher and it is not case sensitive")
 
 a=1
 while a:
